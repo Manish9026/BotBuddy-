@@ -18,8 +18,8 @@ class RuleBasedChatbot:
                 "Doing awesome! How about you? 😊"
             ],
             'name_identity': [
-                "I'm a simple Flask chatbot 🤖",
-                "You can call me ChatBot! I'm here to help 🤖",
+                "I'm a simple Rule-Based chatbot 🤖",
+                "You can call me BotBuddy! I'm here to help 🤖",
                 "I'm your friendly neighborhood Flask bot! 🕷️🤖"
             ],
             'joke': [
@@ -28,11 +28,12 @@ class RuleBasedChatbot:
                 "What do you call a fake noodle? An impasta! 🍝😂",
                 "Why don't eggs tell jokes? They'd crack each other up! 🥚😂"
             ],
-            'creator': [
-                "I was created using Python and Flask 💻",
-                "My creator built me with Python and Flask! Pretty cool, right? 🐍⚡",
-                "I'm powered by Python and Flask magic! ✨💻"
+           'creator': [
+                "I was created by Ashish using Python and Flask 💻",
+                "Ashish built me with Python and Flask! Pretty cool, right? 🐍⚡",
+                "I'm powered by Python and Flask magic, all thanks to my creator Ashish! ✨💻"
             ],
+
             'help': [
                 "You can ask things like 'hello', 'your name', 'how are you', 'tell me a joke', or 'who made you' 💬",
                 "Try asking me: hello, how are you, your name, tell me a joke, who made you, or just chat! 🗣️",
